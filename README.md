@@ -44,6 +44,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Replace Values | Create a DataFrame, replace all occurrences of the old value with the new value in the specified column, and count how many replacements were made. | https://www.tensortonic.com/problems/pandas-replace-values |
 | Resetting Index | Set a pandas column as the index, then restore the default integer index while retaining the original values. | https://www.tensortonic.com/problems/pandas-resetting-index |
 | Setting Index | Set a named pandas DataFrame column as the index and report the resulting records and index metadata. | https://www.tensortonic.com/problems/pandas-setting-index |
+| Unstack Long to Wide | Implement Unstack Long to Wide, and return a dict of lists representing the wide-format DataFrame. | https://www.tensortonic.com/problems/pandas-unstack-long-to-wide |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/ruslankireev32)
 <!-- tensortonic:end -->
