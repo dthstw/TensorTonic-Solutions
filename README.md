@@ -48,6 +48,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Unstack Long to Wide | Implement Unstack Long to Wide, and return a dict of lists representing the wide-format DataFrame. | https://www.tensortonic.com/problems/pandas-unstack-long-to-wide |
 | Basic Probability Rules | Compute union, complement, and exclusive-event probabilities from two event probabilities and their intersection. | https://www.tensortonic.com/problems/probstat-basic-probability-rules |
 | Bayes' Theorem | Compute a posterior probability from a prior, likelihood, and false-positive rate using Bayes' theorem. | https://www.tensortonic.com/problems/probstat-bayes-theorem |
+| Central Limit Theorem | Compute the sample mean, standard error, and a confidence interval for the population mean using the CLT normal approximation. | https://www.tensortonic.com/problems/probstat-clt-confidence-interval |
 | Conditional Probability | Compute both directional conditional probabilities from two event probabilities and their intersection. | https://www.tensortonic.com/problems/probstat-conditional-probability |
 | Discrete Moments | Given the values and probabilities of a discrete random variable, compute its first two moments, variance, and standard deviation. | https://www.tensortonic.com/problems/probstat-discrete-moments |
 | Exponential Distribution | Compute the PDF, CDF, survival probability, mean, and variance of an exponential distribution. | https://www.tensortonic.com/problems/probstat-exponential-distribution |
